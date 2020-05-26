@@ -5,6 +5,8 @@
 
 ## [LeNet implementation on CIFAR-10](https://github.com/Nickel-nc/GU_Deep_Learning_In_Computer_Vision/blob/master/2.%20CNN%20Cifar-10/CNN_Cifar-10.ipynb)
 
+## [Transfer Learning CNN pretrained with ImageNet weights](https://github.com/Nickel-nc/GU_Deep_Learning_In_Computer_Vision/blob/master/3.%20Transfer%20Learning%20CNN/Transfer%20Learning%20CNN.ipynb)
+
 Our deep neural network is still learning
 
 ...
