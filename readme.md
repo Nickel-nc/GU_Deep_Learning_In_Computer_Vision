@@ -1,6 +1,6 @@
 ## Computer vision track by Geek University 
 
-## Git contents:
+#### git contents:
 
 
 ### [Image Processing with convolutions](https://github.com/Nickel-nc/GU_Deep_Learning_In_Computer_Vision/blob/master/1.%20Image%20processing%20with%20filters/Image%20Processing%20with%20convolutions.ipynb)
