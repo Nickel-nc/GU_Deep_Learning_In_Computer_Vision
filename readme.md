@@ -9,8 +9,7 @@
 
 ### [Transfer Learning CNN pretrained with ImageNet weights](https://github.com/Nickel-nc/GU_Deep_Learning_In_Computer_Vision/blob/master/3.%20Transfer%20Learning%20CNN/Transfer%20Learning%20CNN.ipynb)
 
-### [Semantic Segmentation On Coco (2017) Dataset](https://github.com/Nickel-nc/GU_Deep_Learning_In_Computer_Vision/blob/master/4.%20Semantic%20segmentation/Semantic%20Segmentation.ipynb
-)
+### [Semantic Segmentation On Coco (2017) Dataset](https://github.com/Nickel-nc/GU_Deep_Learning_In_Computer_Vision/blob/master/4.%20Semantic%20segmentation/Semantic%20Segmentation.ipynb)
 
 ### [Using tensorflow Object Detection API](https://github.com/Nickel-nc/GU_Deep_Learning_In_Computer_Vision/blob/master/5.%20Object%20Detection%20API/Tensorflow_Object_Detection_API2.ipynb)
 
